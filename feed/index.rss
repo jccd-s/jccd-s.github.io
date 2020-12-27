@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>JCCD Studio</title>
+	<atom:link href="https://jccd-s.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://jccd-s.com</link>
+	<description>日本中央创作发展集团-コンテンツ商社No.1</description>
+	<lastBuildDate>Tue, 17 Sep 2019 07:18:19 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.9</generator>
+
+<image>
+	<url>https://jccd-s.com/wp-content/uploads/2020/02/cropped-JCCD_LOGO6-32x32.png</url>
+	<title>JCCD Studio</title>
+	<link>https://jccd-s.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">97774875</site>	<item>
+		<title>toho</title>
+		<link>https://jccd-s.com/2018/08/25/toho-4/</link>
+				<pubDate>Sat, 25 Aug 2018 14:21:28 +0000</pubDate>
+		<dc:creator><![CDATA[alice]]></dc:creator>
+				<category><![CDATA[Illustration]]></category>
+
+		<guid isPermaLink="false">http://jccd-s.com/?p=2557</guid>
+				<description><![CDATA[56&#215;007]]></description>
+								<content:encoded><![CDATA[<p>56&#215;007</p>
+]]></content:encoded>
+									<post-id xmlns="com-wordpress:feed-additions:1">2557</post-id>	</item>
+		<item>
+		<title>toho</title>
+		<link>https://jccd-s.com/2018/08/25/toho-6/</link>
+				<pubDate>Sat, 25 Aug 2018 14:11:49 +0000</pubDate>
+		<dc:creator><![CDATA[alice]]></dc:creator>
+				<category><![CDATA[Illustration]]></category>
+
+		<guid isPermaLink="false">http://jccd-s.com/?p=2549</guid>
+				<description><![CDATA[56&#215;005]]></description>
+								<content:encoded><![CDATA[<p>56&#215;005</p>
+]]></content:encoded>
+									<post-id xmlns="com-wordpress:feed-additions:1">2549</post-id>	</item>
+		<item>
+		<title>toho</title>
+		<link>https://jccd-s.com/2018/08/25/toho-5/</link>
+				<pubDate>Sat, 25 Aug 2018 14:11:48 +0000</pubDate>
+		<dc:creator><![CDATA[alice]]></dc:creator>
+				<category><![CDATA[Illustration]]></category>
+
+		<guid isPermaLink="false">http://jccd-s.com/?p=2550</guid>
+				<description><![CDATA[56&#215;006]]></description>
+								<content:encoded><![CDATA[<p>56&#215;006</p>
+]]></content:encoded>
+									<post-id xmlns="com-wordpress:feed-additions:1">2550</post-id>	</item>
+		<item>
+		<title>toho</title>
+		<link>https://jccd-s.com/2018/08/25/toho-3/</link>
+				<pubDate>Sat, 25 Aug 2018 14:09:50 +0000</pubDate>
+		<dc:creator><![CDATA[alice]]></dc:creator>
+				<category><![CDATA[Illustration]]></category>
+
+		<guid isPermaLink="false">http://jccd-s.com/?p=2547</guid>
+				<description><![CDATA[56&#215;003]]></description>
+								<content:encoded><![CDATA[<p>56&#215;003</p>
+]]></content:encoded>
+									<post-id xmlns="com-wordpress:feed-additions:1">2547</post-id>	</item>
+		<item>
+		<title>toho</title>
+		<link>https://jccd-s.com/2018/08/25/toho-2/</link>
+				<pubDate>Sat, 25 Aug 2018 14:09:47 +0000</pubDate>
+		<dc:creator><![CDATA[alice]]></dc:creator>
+				<category><![CDATA[Illustration]]></category>
+
+		<guid isPermaLink="false">http://jccd-s.com/?p=2548</guid>
+				<description><![CDATA[56&#215;004]]></description>
+								<content:encoded><![CDATA[<p>56&#215;004</p>
+]]></content:encoded>
+									<post-id xmlns="com-wordpress:feed-additions:1">2548</post-id>	</item>
+		<item>
+		<title>toho</title>
+		<link>https://jccd-s.com/2018/08/25/toho/</link>
+				<pubDate>Sat, 25 Aug 2018 14:08:28 +0000</pubDate>
+		<dc:creator><![CDATA[alice]]></dc:creator>
+				<category><![CDATA[Illustration]]></category>
+
+		<guid isPermaLink="false">http://jccd-s.com/?p=2540</guid>
+				<description><![CDATA[56&#215;002]]></description>
+								<content:encoded><![CDATA[<p>56&#215;002</p>
+]]></content:encoded>
+									<post-id xmlns="com-wordpress:feed-additions:1">2540</post-id>	</item>
+		<item>
+		<title>toho</title>
+		<link>https://jccd-s.com/2018/08/25/toho1/</link>
+				<pubDate>Sat, 25 Aug 2018 14:02:15 +0000</pubDate>
+		<dc:creator><![CDATA[alice]]></dc:creator>
+				<category><![CDATA[Illustration]]></category>
+
+		<guid isPermaLink="false">http://jccd-s.com/?p=2541</guid>
+				<description><![CDATA[56&#215;001]]></description>
+								<content:encoded><![CDATA[<p>56&#215;001</p>
+]]></content:encoded>
+									<post-id xmlns="com-wordpress:feed-additions:1">2541</post-id>	</item>
+		<item>
+		<title>momoshiki</title>
+		<link>https://jccd-s.com/2016/12/11/momoshiki-2/</link>
+				<pubDate>Sun, 11 Dec 2016 03:06:54 +0000</pubDate>
+		<dc:creator><![CDATA[alice]]></dc:creator>
+				<category><![CDATA[Illustration]]></category>
+		<category><![CDATA[Anime动漫]]></category>
+		<category><![CDATA[Girl少女]]></category>
+		<category><![CDATA[Illustration插图]]></category>
+		<category><![CDATA[Lolita萝莉]]></category>
+
+		<guid isPermaLink="false">http://jccd-s.com/?p=1004</guid>
+				<description><![CDATA[26&#215;002]]></description>
+								<content:encoded><![CDATA[<p>26&#215;002</p>
+]]></content:encoded>
+									<post-id xmlns="com-wordpress:feed-additions:1">1004</post-id>	</item>
+		<item>
+		<title>asuda</title>
+		<link>https://jccd-s.com/2016/12/11/asuda-1/</link>
+				<pubDate>Sun, 11 Dec 2016 03:06:53 +0000</pubDate>
+		<dc:creator><![CDATA[alice]]></dc:creator>
+				<category><![CDATA[Illustration]]></category>
+		<category><![CDATA[Anime动漫]]></category>
+		<category><![CDATA[Illustration插图]]></category>
+
+		<guid isPermaLink="false">http://jccd-s.com/?p=851</guid>
+				<description><![CDATA[19&#215;001]]></description>
+								<content:encoded><![CDATA[<p>19&#215;001</p>
+]]></content:encoded>
+									<post-id xmlns="com-wordpress:feed-additions:1">851</post-id>	</item>
+		<item>
+		<title>machi-kiya</title>
+		<link>https://jccd-s.com/2016/12/11/machi-kiya-5/</link>
+				<pubDate>Sun, 11 Dec 2016 03:05:36 +0000</pubDate>
+		<dc:creator><![CDATA[alice]]></dc:creator>
+				<category><![CDATA[Illustration]]></category>
+		<category><![CDATA[Anime动漫]]></category>
+		<category><![CDATA[Girl少女]]></category>
+		<category><![CDATA[Illustration插图]]></category>
+		<category><![CDATA[Lolita萝莉]]></category>
+
+		<guid isPermaLink="false">http://jccd-s.com/?p=948</guid>
+				<description><![CDATA[23&#215;005]]></description>
+								<content:encoded><![CDATA[<p>23&#215;005</p>
+]]></content:encoded>
+									<post-id xmlns="com-wordpress:feed-additions:1">948</post-id>	</item>
+	</channel>
+</rss>
